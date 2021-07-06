@@ -1,5 +1,5 @@
 <div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=blakeboll&theme=tokyonight&border_radius=50&layout=compact&card_width=948&custom_title=Blake is cool!"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=blakeboll&theme=tokyonight&border_radius=50&layout=compact&custom_title=Blake is cool!"/>
 </div>
 
 <span>
