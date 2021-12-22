@@ -1,5 +1,3 @@
-<img src="./rick.webp"/> <img src="./rick.webp"/> <img src="./rick.webp"/> <img src="./rick.webp"/> <img src="./rick.webp"/> <img src="./rick.webp"/>
-
 <div>
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=blakeboll&theme=tokyonight&border_radius=50&layout=compact&card_width=445&custom_title=Blake is cool!"/>
 </div>
