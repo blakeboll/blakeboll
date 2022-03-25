@@ -1,5 +1,5 @@
 <div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=blakeboll&theme=tokyonight&border_radius=50&layout=compact&card_width=445&custom_title=Blake is cool!"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=blakeboll&theme=tokyonight&border_radius=50&layout=compact&card_width=445&custom_title=My repos consist of..."/>
 </div>
 
 <span>
@@ -7,7 +7,7 @@
 </span>
 
 <span>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=blucky36&theme=tokyonight&border_radius=50&range=last_7_days&layout=compact&custom_title=Last seven days"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=blucky36&theme=tokyonight&border_radius=50&range=last_7_days&layout=compact&custom_title=The languages I've been working in this week are..."/>
 </span>
 
 
