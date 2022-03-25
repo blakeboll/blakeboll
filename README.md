@@ -7,7 +7,7 @@
 </span>
 
 <span>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=blucky36&theme=tokyonight&border_radius=50&range=last_7_days&layout=compact&custom_title=The languages I've been working in this week are..."/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=blucky36&theme=tokyonight&border_radius=50&range=last_7_days&layout=compact&custom_title=7 day retrospective"/>
 </span>
 
 
